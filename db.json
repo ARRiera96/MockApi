@@ -1,6 +1,8 @@
   
 {
-  "segments_shopper": 2,
-  "uploader_acquisition": "99",
-  "uploader_retention": 1
+  "user_segments": {
+    "segments_shopper": 2,
+    "uploader_acquisition": "99",
+    "uploader_retention": 1
+  }
 }
